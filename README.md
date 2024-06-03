@@ -24,6 +24,7 @@ RFM, which stands for Recency, Frequency, Monetary, is a method used for custome
 <br>
 By analyzing these three dimensions together, businesses can segment their customers into distinct groups, allowing for targeted marketing strategies and personalized approaches to customer engagement. RFM segmentation enables businesses to identify their most valuable customers, re-engage inactive customers, and tailor marketing efforts to specific customer segments, ultimately leading to improved customer retention and increased profitability.
 #### set the RFM score
+
 ```
 -- Update segment based on RFM Score
 UPDATE RFM_german
